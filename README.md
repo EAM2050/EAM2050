@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eam2050&show_icons=true&locale=en" alt="eam2050" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eam2050&" alt="eam2050" /></p>
+
+![snake gif](https://github.com/EAM2050/EAM2050/blob/output/github-contribution-grid-snake.svg)
